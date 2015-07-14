@@ -1,0 +1,21 @@
+node_modules
+.sass-cache
+.grunt
+out
+*.generated.*
+*-generated-*
+dist
+dist-*
+
+# ignore generated css files
+calltoaction.css
+onepage-scroll-fixes.css
+style.css
+
+# ignore Mac Files
+.DS_Store
+
+# Mediafiles
+.webm
+.mp4
+.ogg
